@@ -4,6 +4,11 @@ Bitcoin Bank ERC20 Token
 
 ------
 
+![BANK](http://0-3.info/logo.png)
+
+
+-----
+
 Contract Name:	BitcoinBank
 
 Compiler Version:	v0.4.19+commit.c4cbbb05
@@ -24,4 +29,9 @@ TX
 
 ----
 
-550,000,000 BANK
+516,000,000 BANK
+
+-----
+
+
+Copyright [www.0-3.info](0-3.info)
