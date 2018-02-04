@@ -5,7 +5,9 @@ Bitcoin Bank ERC20 Token
 ------
 
 Contract Name:	BitcoinBank
+
 Compiler Version:	v0.4.19+commit.c4cbbb05
+
 Optimization Enabled:	No
 
 ------
