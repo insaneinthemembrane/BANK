@@ -1,6 +1,6 @@
 # BANK
 
-Bitcoin Bank ERC20 Token
+Bitcoin Bank is an ERC20 token, that will earn lots.
 
 ------
 
